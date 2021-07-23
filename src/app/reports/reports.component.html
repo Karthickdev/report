@@ -1,0 +1,113 @@
+<!-- Toolbar -->
+<div class="toolbar" role="banner">
+    <h4 class="title">REPORTS</h4>
+</div>
+
+<div>
+    <div class="filter">
+        <mat-form-field appearance="fill">
+            <mat-label>From Date</mat-label>
+            <input matInput [matDatepicker]="picker" [(ngModel)]="fromDate">
+            <mat-datepicker-toggle matSuffix [for]="picker"></mat-datepicker-toggle>
+            <mat-datepicker #picker></mat-datepicker>
+        </mat-form-field>
+        <br>
+        <mat-form-field appearance="fill">
+            <mat-label>To Date</mat-label>
+            <input matInput [matDatepicker]="picker1" [(ngModel)]="toDate">
+            <mat-datepicker-toggle matSuffix [for]="picker1"></mat-datepicker-toggle>
+            <mat-datepicker #picker1></mat-datepicker>
+        </mat-form-field>
+        <br>
+        <button mat-raised-button color="primary" (click)="getReportData()">GET REPORTS</button>
+    </div>
+    <br>
+    <div *ngIf="reportDetails.length > 0">
+        
+        <table>
+        <tbody>
+            <tr style="background: #e6e3e0;">
+              <th rowspan="2">
+                <mat-label style="color: rgb(28, 31, 31);font-size: large;">Season</mat-label>
+              </th>
+              <th rowspan="2">
+                <mat-label style="color: rgb(28, 31, 31);font-size: large;">Customer</mat-label>
+              </th>
+              <th rowspan="2">
+                <mat-label style="color: rgb(28, 31, 31);font-size: large;">Order ref</mat-label>
+              </th>
+              <th rowspan="2">
+                <mat-label style="color: rgb(28, 31, 31);font-size: large;">Order qty</mat-label>
+              </th>
+              <th rowspan="2">
+                <mat-label style="color: rgb(28, 31, 31);font-size: large;">Product</mat-label>
+              </th>
+              <th rowspan="2">
+                <mat-label style="color: rgb(28, 31, 31);font-size: large;">Total Cut qty</mat-label>
+              </th>
+              <th rowspan="2">
+                <mat-label style="color: rgb(28, 31, 31);font-size: large;">Total Production</mat-label>
+              </th>
+              <th rowspan="2">
+                <mat-label style="color: rgb(28, 31, 31);font-size: large;">Line</mat-label>
+              </th>
+              <th rowspan="2">
+                <mat-label style="color: rgb(28, 31, 31);font-size: large;">Suboperation</mat-label>
+              </th>
+              <th colspan="2" *ngFor="let item of reportDates" style="width: 10%;">
+                <mat-label style="color: rgb(28, 31, 31);font-size: small;">{{item.createddate}}</mat-label>
+              </th>
+            </tr>
+            <tr></tr>
+            <tr *ngFor="let item of reportDetails">
+              <td>
+                <mat-label position="floating" style="color: rgb(28, 31, 31);font-size: large;">
+                  {{item.season_name}}
+                </mat-label>
+              </td>
+              <td>
+                <mat-label position="floating" style="color: rgb(28, 31, 31);font-size: large;">
+                  {{item.customer_name}}
+                </mat-label>
+              </td>
+              <td>
+                <mat-label position="floating" style="color: rgb(28, 31, 31);font-size: large;">
+                  {{item.order_name}}
+                </mat-label>
+              </td>
+              <td>
+                <mat-label position="floating" style="color: rgb(28, 31, 31);font-size: large;">
+                  {{item.order_qty}}
+                </mat-label>
+              </td>
+              <td>
+                <mat-label position="floating" style="color: rgb(28, 31, 31);font-size: large;">
+                  {{item.product_name}}
+                </mat-label>
+              </td>
+              <td>
+                <mat-label position="floating" style="color: rgb(28, 31, 31);font-size: large;">
+                  {{item.totalcultqty}}
+                </mat-label>
+              </td>
+              <td>
+                <mat-label position="floating" style="color: rgb(28, 31, 31);font-size: large;">
+                  {{item.totalproductqty}}
+                </mat-label>
+              </td>
+                <td  *ngFor="let line of item.linedetails">
+                  <mat-label position="floating" style="color: rgb(28, 31, 31);font-size: large;">
+                    {{line.line_name}}
+                  </mat-label>
+                </td>
+                <td *ngFor="let sub of suboperationalDetails">
+                  <mat-label position="floating" style="color: rgb(28, 31, 31);font-size: large;">
+                    {{sub.suboperation_name}}
+                  </mat-label>
+                </td>
+            </tr>
+          </tbody>
+        </table>
+    </div>
+</div>
+

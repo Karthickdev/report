@@ -1,0 +1,4264 @@
+{
+  "sizewise": {
+    "seascusdetails": [
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "4",
+        "season_name": "WINTER 19",
+        "order_seq_num": "4000",
+        "order_name": "DCM-001.24",
+        "order_qty": "45438",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 14231,
+        "totalproductqty": "2000",
+        "linedetails": [
+          {
+            "line_seq_num": "20",
+            "line_name": "B105",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-01",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "75",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "426",
+                        "b_sizecount": "41"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-03",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "87",
+                        "b_sizecount": "9"
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "164",
+                        "b_sizecount": "18"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "75",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "165",
+                        "b_sizecount": "16"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "75",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "96",
+                        "b_sizecount": "9"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "5",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-01",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "64",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "124",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-03",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "39",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "29",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-06",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "14",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "55",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-01",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "336",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-03",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "168",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "29",
+            "line_name": "B106",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-01",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "499",
+                        "b_sizecount": "48"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-03",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "140",
+                        "b_sizecount": "14"
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "246",
+                        "b_sizecount": "23"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-06",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "20",
+                        "b_sizecount": "1"
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "80",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "20",
+                        "b_sizecount": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-01",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "293",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-03",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "102",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "78",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-06",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "77",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "17",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-01",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "336",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-03",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "84",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "16",
+            "line_name": "B107",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-01",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "751",
+                        "b_sizecount": "72"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-03",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "180",
+                        "b_sizecount": "18"
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "285",
+                        "b_sizecount": "28"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "80",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "20",
+                        "b_sizecount": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "30",
+                        "b_sizecount": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "40",
+                        "b_sizecount": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "10",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-01",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "376",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-03",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "343",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "210",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-06",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "2",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "104",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "73",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-01",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "420",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-03",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "168",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "96",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-06",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "169",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "169",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "4",
+        "season_name": "WINTER 19",
+        "order_seq_num": "3946",
+        "order_name": "DCM-003.27",
+        "order_qty": "44424",
+        "product_seq_num": "85237",
+        "product_name": "PANT",
+        "totalcultqty": null,
+        "totalproductqty": null,
+        "linedetails": [
+          {
+            "line_seq_num": "10",
+            "line_name": "B212",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "654",
+                "suboperation_name": "MARK LEG PANEL (2) ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "7",
+                        "size_name": "6Y",
+                        "pcssizecount": "10",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "77",
+        "customer_name": "TRUE ALLIANCE BRANDS PTY LTD",
+        "season_seq_num": "7",
+        "season_name": "SUMMER 21",
+        "order_seq_num": "3992",
+        "order_name": "TAW-001.1",
+        "order_qty": "2435",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": null,
+        "totalproductqty": "4",
+        "linedetails": [
+          {
+            "line_seq_num": "33",
+            "line_name": "B101",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "5",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "4",
+        "season_name": "WINTER 19",
+        "order_seq_num": "4004",
+        "order_name": "DCM-003.28",
+        "order_qty": "27540",
+        "product_seq_num": "85237",
+        "product_name": "PANT",
+        "totalcultqty": 45365,
+        "totalproductqty": null,
+        "linedetails": [
+          {
+            "line_seq_num": "10",
+            "line_name": "B212",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "654",
+                "suboperation_name": "MARK LEG PANEL (2) ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "6",
+                        "size_name": "14Y",
+                        "pcssizecount": "10",
+                        "b_sizecount": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-06",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "6",
+                        "size_name": "14Y",
+                        "pcssizecount": "30",
+                        "b_sizecount": "3"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "77",
+        "customer_name": "TRUE ALLIANCE BRANDS PTY LTD",
+        "season_seq_num": "7",
+        "season_name": "SUMMER 21",
+        "order_seq_num": "3993",
+        "order_name": "TAW-006",
+        "order_qty": "1327",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 2883,
+        "totalproductqty": "570",
+        "linedetails": [
+          {
+            "line_seq_num": "33",
+            "line_name": "B101",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "12",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "9",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "1",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-06",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "59",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "124",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "2",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "7",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "107",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "100",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "68",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "107",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "6",
+        "season_name": "WINTER 20",
+        "order_seq_num": "2550",
+        "order_name": "DCM-004.7",
+        "order_qty": "44916",
+        "product_seq_num": "85237",
+        "product_name": "PANT",
+        "totalcultqty": 86256,
+        "totalproductqty": null,
+        "linedetails": [
+          {
+            "line_seq_num": "3",
+            "line_name": "B214",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "654",
+                "suboperation_name": "MARK LEG PANEL (2) ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-05",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "20",
+                        "b_sizecount": "2"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "4",
+        "season_name": "WINTER 19",
+        "order_seq_num": "4003",
+        "order_name": "DCM-002.25",
+        "order_qty": "20088",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": null,
+        "totalproductqty": null,
+        "linedetails": [
+          {
+            "line_seq_num": "36",
+            "line_name": "B208",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "34",
+                        "size_name": "12Y",
+                        "pcssizecount": "10",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "6",
+        "season_name": "WINTER 20",
+        "order_seq_num": "2539",
+        "order_name": "DCM-002.3",
+        "order_qty": "14616",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 30098,
+        "totalproductqty": "307",
+        "linedetails": [
+          {
+            "line_seq_num": "36",
+            "line_name": "B208",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "34",
+                        "size_name": "12Y",
+                        "pcssizecount": "160",
+                        "b_sizecount": "16"
+                      },
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "220",
+                        "b_sizecount": "20"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-08",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "34",
+                        "size_name": "12Y",
+                        "pcssizecount": "52",
+                        "b_sizecount": "6"
+                      },
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "220",
+                        "b_sizecount": "20"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-09",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "34",
+                        "size_name": "12Y",
+                        "pcssizecount": "166",
+                        "b_sizecount": "15"
+                      },
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "87",
+                        "b_sizecount": "9"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "6",
+                        "size_name": "14Y",
+                        "pcssizecount": "74",
+                        "b_sizecount": "7"
+                      },
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "81",
+                        "b_sizecount": "7"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-08",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "260",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-09",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "23",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "34",
+                        "size_name": "12Y",
+                        "pcssizecount": "12",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "34",
+                        "size_name": "12Y",
+                        "pcssizecount": "12",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-08",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "240",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "6",
+        "season_name": "WINTER 20",
+        "order_seq_num": "2541",
+        "order_name": "DCM-001.2",
+        "order_qty": "55818",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 113878,
+        "totalproductqty": "9815",
+        "linedetails": [
+          {
+            "line_seq_num": "20",
+            "line_name": "B105",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "188",
+                        "b_sizecount": "19"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-08",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "262",
+                        "b_sizecount": "24"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-09",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "180",
+                        "b_sizecount": "16"
+                      },
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "76",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "254",
+                        "b_sizecount": "24"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "254",
+                        "b_sizecount": "26"
+                      },
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "126",
+                        "b_sizecount": "12"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "168",
+                        "b_sizecount": "17"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "719",
+                        "b_sizecount": "72"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "412",
+                        "b_sizecount": "40"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "507",
+                        "b_sizecount": "48"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-14",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "18",
+                        "b_sizecount": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-15",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "74",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "732",
+                        "b_sizecount": "70"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-16",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "478",
+                        "b_sizecount": "48"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-17",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "746",
+                        "b_sizecount": "71"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-20",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "274",
+                        "b_sizecount": "26"
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "228",
+                        "b_sizecount": "24"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-21",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "468",
+                        "b_sizecount": "42"
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "56",
+                        "b_sizecount": "5"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "15",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-08",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "125",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-09",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "254",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "132",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "159",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "121",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "590",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-14",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "188",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-15",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "37",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-16",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "77",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-21",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "84",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "21",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "11",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-09",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "672",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "168",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "504",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "1010",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-20",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "172",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "338",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "29",
+            "line_name": "B106",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "306",
+                        "b_sizecount": "29"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-08",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "90",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "124",
+                        "b_sizecount": "13"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-09",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "86",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "80",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "182",
+                        "b_sizecount": "16"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "352",
+                        "b_sizecount": "33"
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "100",
+                        "b_sizecount": "9"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "722",
+                        "b_sizecount": "68"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "538",
+                        "b_sizecount": "55"
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "159",
+                        "b_sizecount": "16"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-14",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "118",
+                        "b_sizecount": "11"
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "3",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-15",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "219",
+                        "b_sizecount": "21"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-16",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "95",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "38",
+                        "b_sizecount": "4"
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "86",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-17",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "230",
+                        "b_sizecount": "22"
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "8",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-19",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "40",
+                        "b_sizecount": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-20",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "562",
+                        "b_sizecount": "56"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-21",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "8",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "104",
+                        "b_sizecount": "10"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "8",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "41",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-08",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "175",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-09",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "174",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "162",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "89",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "396",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "80",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "374",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "831",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-14",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "148",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-15",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "313",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-16",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "76",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "48",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-17",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "210",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "30",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-20",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "212",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-21",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "81",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "249",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": null,
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "218",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": null,
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-08",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "168",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "510",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "84",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "336",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "78",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "756",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-16",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "1",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "16",
+            "line_name": "B107",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "452",
+                        "b_sizecount": "46"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-08",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "408",
+                        "b_sizecount": "42"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "20",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-09",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "342",
+                        "b_sizecount": "32"
+                      },
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "86",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "86",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "332",
+                        "b_sizecount": "34"
+                      },
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "220",
+                        "b_sizecount": "21"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "8",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "602",
+                        "b_sizecount": "56"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "702",
+                        "b_sizecount": "68"
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "329",
+                        "b_sizecount": "32"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-14",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "9",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "30",
+                        "b_sizecount": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-15",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "168",
+                        "b_sizecount": "16"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-16",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "316",
+                        "b_sizecount": "32"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-19",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "30",
+                        "b_sizecount": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-20",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "48",
+                        "b_sizecount": "5"
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "78",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "236",
+                        "b_sizecount": "23"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-21",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "18",
+                        "b_sizecount": "2"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "464",
+                        "b_sizecount": "44"
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "161",
+                        "b_sizecount": "16"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "7",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-07",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "14",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-08",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "154",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "242",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-09",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "537",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "78",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "280",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "240",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "14",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "58",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "545",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "647",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "116",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-14",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "193",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-15",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": null,
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "110",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-16",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "377",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-20",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "87",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "19",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "51",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-21",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "55",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "56",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "121",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-23",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "1",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "145",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "542",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "336",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "840",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "84",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "77",
+        "customer_name": "TRUE ALLIANCE BRANDS PTY LTD",
+        "season_seq_num": "7",
+        "season_name": "SUMMER 21",
+        "order_seq_num": "3988",
+        "order_name": "TAW-008",
+        "order_qty": "438",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 998,
+        "totalproductqty": "204",
+        "linedetails": [
+          {
+            "line_seq_num": "33",
+            "line_name": "B101",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-09",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "44",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "7",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "50",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "35",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "80",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "41",
+        "customer_name": "TRUE ALLIANCE BRANDS PTY LTD ",
+        "season_seq_num": "7",
+        "season_name": "SUMMER 21",
+        "order_seq_num": "3906",
+        "order_name": "TAW-019",
+        "order_qty": "1020",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 2201,
+        "totalproductqty": "387",
+        "linedetails": [
+          {
+            "line_seq_num": "33",
+            "line_name": "B101",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-10",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "44",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "72",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "38",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "120",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "34",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "19",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "58",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "17",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "2",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "4",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "2",
+        "season_name": "SUMMER 20",
+        "order_seq_num": "2225",
+        "order_name": "DCN-002.43",
+        "order_qty": "18840",
+        "product_seq_num": "85232",
+        "product_name": "SHORT",
+        "totalcultqty": 45920,
+        "totalproductqty": "61",
+        "linedetails": [
+          {
+            "line_seq_num": "28",
+            "line_name": "B109",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "346",
+                "suboperation_name": "CHECK PANELS ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "170",
+                        "b_sizecount": "16"
+                      },
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "90",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "180",
+                        "b_sizecount": "16"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "138",
+                        "b_sizecount": "14"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "14",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "47",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "6",
+        "season_name": "WINTER 20",
+        "order_seq_num": "2561",
+        "order_name": "DCM-002.4",
+        "order_qty": "15732",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 36217,
+        "totalproductqty": "300",
+        "linedetails": [
+          {
+            "line_seq_num": "36",
+            "line_name": "B208",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "472",
+                        "b_sizecount": "45"
+                      },
+                      {
+                        "size_seq_num": "7",
+                        "size_name": "6Y",
+                        "pcssizecount": "76",
+                        "b_sizecount": "7"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "204",
+                        "b_sizecount": "19"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-12",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "7",
+                        "size_name": "6Y",
+                        "pcssizecount": "29",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "16",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-13",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "203",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-14",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "3",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-15",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "27",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-16",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "14",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-21",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "8",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "6",
+        "season_name": "WINTER 20",
+        "order_seq_num": "2537",
+        "order_name": "DCM-002.5",
+        "order_qty": "15576",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 28990,
+        "totalproductqty": "162",
+        "linedetails": [
+          {
+            "line_seq_num": "36",
+            "line_name": "B208",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-17",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "75",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-21",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "7",
+                        "size_name": "6Y",
+                        "pcssizecount": "75",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "5",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "34",
+                        "size_name": "12Y",
+                        "pcssizecount": "80",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "7",
+                        "size_name": "6Y",
+                        "pcssizecount": "108",
+                        "b_sizecount": "11"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-23",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "7",
+                        "size_name": "6Y",
+                        "pcssizecount": "5",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-24",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "72",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "34",
+                        "size_name": "12Y",
+                        "pcssizecount": "70",
+                        "b_sizecount": "7"
+                      },
+                      {
+                        "size_seq_num": "7",
+                        "size_name": "6Y",
+                        "pcssizecount": "160",
+                        "b_sizecount": "16"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "34",
+                        "size_name": "12Y",
+                        "pcssizecount": "10",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-21",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "2",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "42",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-23",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "7",
+                        "size_name": "6Y",
+                        "pcssizecount": "42",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "31",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-24",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "3",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "35",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "13",
+                        "size_name": "10Y",
+                        "pcssizecount": "7",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "6",
+        "season_name": "WINTER 20",
+        "order_seq_num": "3808",
+        "order_name": "DCM-001.7",
+        "order_qty": "1770",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 3444,
+        "totalproductqty": "79",
+        "linedetails": [
+          {
+            "line_seq_num": "20",
+            "line_name": "B105",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "88",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "88",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "4",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-23",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "75",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "6",
+        "season_name": "WINTER 20",
+        "order_seq_num": "3809",
+        "order_name": "DCM-001.5",
+        "order_qty": "24870",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 30104,
+        "totalproductqty": "3866",
+        "linedetails": [
+          {
+            "line_seq_num": "29",
+            "line_name": "B106",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "72",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-23",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "2",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-24",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "322",
+                        "b_sizecount": "32"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "440",
+                        "b_sizecount": "41"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "65",
+                        "b_sizecount": "7"
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "332",
+                        "b_sizecount": "33"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "5",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "88",
+                        "b_sizecount": "9"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "67",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-23",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "13",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-24",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "30",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "663",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "34",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "317",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "24",
+                        "size_name": "2XL",
+                        "pcssizecount": "31",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "78",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "772",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "253",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "20",
+            "line_name": "B105",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "40",
+                        "b_sizecount": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-23",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "10",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-24",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "380",
+                        "b_sizecount": "38"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "574",
+                        "b_sizecount": "54"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "364",
+                        "b_sizecount": "34"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "90",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "90",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "4",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "82",
+                        "b_sizecount": "8"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "663",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "507",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "11",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-30",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "17",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "5",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "768",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "1008",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-29",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "174",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "16",
+            "line_name": "B107",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-22",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "40",
+                        "b_sizecount": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-23",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "10",
+                        "b_sizecount": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-24",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "184",
+                        "b_sizecount": "19"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "430",
+                        "b_sizecount": "40"
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "164",
+                        "b_sizecount": "17"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "404",
+                        "b_sizecount": "38"
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "10",
+                        "b_sizecount": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "40",
+                        "b_sizecount": "3"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "320",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "390",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "387",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "69",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-26",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "252",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "336",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "336",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "21",
+                        "size_name": "XL",
+                        "pcssizecount": "84",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-29",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "6",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "40",
+            "line_name": "B105.1",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "224",
+                        "b_sizecount": "21"
+                      },
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "166",
+                        "b_sizecount": "16"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "10",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "71",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "293",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-27",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "92",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "90",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "23",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "6",
+        "season_name": "WINTER 20",
+        "order_seq_num": "3807",
+        "order_name": "DCM-001.8",
+        "order_qty": "27228",
+        "product_seq_num": "85231",
+        "product_name": "T SHIRT",
+        "totalcultqty": 16592,
+        "totalproductqty": "658",
+        "linedetails": [
+          {
+            "line_seq_num": "20",
+            "line_name": "B105",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "10",
+                        "b_sizecount": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-29",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "90",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "150",
+                        "b_sizecount": "14"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-30",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "20",
+                        "b_sizecount": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "70",
+                        "b_sizecount": "7"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "130",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "29",
+            "line_name": "B106",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "20",
+                        "b_sizecount": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-29",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "154",
+                        "b_sizecount": "14"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-30",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "240",
+                        "b_sizecount": "22"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "100",
+                        "b_sizecount": "9"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "20",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-29",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "90",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-30",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "172",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "167",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-29",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "3",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "10",
+                        "size_name": "M",
+                        "pcssizecount": "92",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "16",
+            "line_name": "B107",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "30",
+                        "b_sizecount": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-29",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "20",
+                        "b_sizecount": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-30",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "16",
+                        "b_sizecount": "1"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-28",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "3",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-29",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "12",
+                        "size_name": "S",
+                        "pcssizecount": "28",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "40",
+            "line_name": "B105.1",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": null,
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "line_seq_num": "11",
+            "line_name": "B106.1",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "935",
+                "suboperation_name": "MARK SLEEVE PANEL ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "82",
+                        "b_sizecount": "8"
+                      },
+                      {
+                        "size_seq_num": "11",
+                        "size_name": "XS",
+                        "pcssizecount": "20",
+                        "b_sizecount": "2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "9",
+                        "size_name": "L",
+                        "pcssizecount": "48",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "customer_seq_num": "32",
+        "customer_name": "CUSTOMER1",
+        "season_seq_num": "2019",
+        "season_name": "ANNUAL 21",
+        "order_seq_num": "3790",
+        "order_name": "DCR-001",
+        "order_qty": "47152",
+        "product_seq_num": "85237",
+        "product_name": "PANT",
+        "totalcultqty": 9432,
+        "totalproductqty": "316",
+        "linedetails": [
+          {
+            "line_seq_num": "16",
+            "line_name": "B107",
+            "suboperationdetails": [
+              {
+                "suboperation_seq_num": "346",
+                "suboperation_name": "CHECK PANELS ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-30",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "101",
+                        "size_name": "2XL/W38 L31",
+                        "pcssizecount": "164",
+                        "b_sizecount": "16"
+                      },
+                      {
+                        "size_seq_num": "100",
+                        "size_name": "XL/W35 L31",
+                        "pcssizecount": "152",
+                        "b_sizecount": "15"
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "100",
+                        "size_name": "XL/W35 L31",
+                        "pcssizecount": "13",
+                        "b_sizecount": "2"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "339",
+                "suboperation_name": "CHECK FINAL GARMENT ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-30",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "101",
+                        "size_name": "2XL/W38 L31",
+                        "pcssizecount": "82",
+                        "b_sizecount": null
+                      }
+                    ]
+                  },
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "100",
+                        "size_name": "XL/W35 L31",
+                        "pcssizecount": "164",
+                        "b_sizecount": null
+                      },
+                      {
+                        "size_seq_num": "101",
+                        "size_name": "2XL/W38 L31",
+                        "pcssizecount": "70",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "suboperation_seq_num": "761",
+                "suboperation_name": "TAG,FOLD & POLY BAG ",
+                "createddate": [
+                  {
+                    "createddate": "2020-10-31",
+                    "sizedetails": [
+                      {
+                        "size_seq_num": "101",
+                        "size_name": "2XL/W38 L31",
+                        "pcssizecount": "148",
+                        "b_sizecount": null
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "dateset": [
+    "2020-10-01",
+    "2020-10-03",
+    "2020-10-05",
+    "2020-10-06",
+    "2020-10-07",
+    "2020-10-08",
+    "2020-10-09",
+    "2020-10-10",
+    "2020-10-12",
+    "2020-10-13",
+    "2020-10-14",
+    "2020-10-15",
+    "2020-10-16",
+    "2020-10-17",
+    "2020-10-19",
+    "2020-10-20",
+    "2020-10-21",
+    "2020-10-22",
+    "2020-10-23",
+    "2020-10-24",
+    "2020-10-26",
+    "2020-10-27",
+    "2020-10-28",
+    "2020-10-29",
+    "2020-10-30",
+    "2020-10-31"
+  ]
+}
